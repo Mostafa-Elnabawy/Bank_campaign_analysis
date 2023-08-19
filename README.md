@@ -1,8 +1,8 @@
 # [Title]: 
 ## Bank_campaing_analysis
 # [Description] : 
-### In this project we analyzed campaign marketing data in which new financial services were offered to customers. 
-### The aim of the project is to see how different features affect customer response to the campaign.
+### In this project, we conducted an in-depth analysis of campaign marketing data, focusing on the promotion of new financial services to customers. The primary objective was to understand the impact of various features on customer response to the campaign.
+### To accomplish our goal, we utilized several key technologies and libraries in Python. We leveraged pandas for data manipulation and exploration, matplotlib and seaborn for data visualization, scipy for statistical computations, and statsmodels for building logistic and linear regression models.
 # [Technologies]
 ### python (e.g pandas, matplotlib, seaborn, scipy, statsmodels)
 ### Hyposesis Testing
