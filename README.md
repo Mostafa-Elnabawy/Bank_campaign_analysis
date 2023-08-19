@@ -15,5 +15,6 @@
 # [How to run] :
 -- first create a virtual environment and install all the packages in the requirements.txt file in it using pip
 -- open jupter notebook to open the Full_EDA_and_analysis.ipynb
+-- run all cells to load all graphs and visuals and see model results with conslusions.
 # [CREDITS] :
 ## The data analysis workshop book chapter 2. 
